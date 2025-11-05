@@ -63,12 +63,12 @@ Congratulations! X's have won! Thanks for playing.
 
 ## Run
 
-- Clone the repo:
+- Clone the Repository:
    ```bash
    git clone https://github.com/itsjomon/java-mini-projects.git
    ```
 
-- Navigate to the project folder:
+- Navigate to the project directory:
   ```bash
   cd java-mini-projects/tic-tac-toe
   ```

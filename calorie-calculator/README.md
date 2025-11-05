@@ -22,7 +22,7 @@ Your estimated daily calorie needs are: 2782 calories per day.
 
 ## Run
 
-- Clone the repo:
+- Clone the Repository:
   ```bash
   git clone https://github.com/itsjomon/java-mini-projects.git
   ```

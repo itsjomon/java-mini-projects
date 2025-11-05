@@ -5,6 +5,7 @@ This repository features a collection of mini Java projects that reinforce progr
 - [Tic-Tac-Toe Game](tic-tac-toe)
 - [Calorie Calculator](calorie-calculator)
 - [Memory Game](memory-game)
+- [PacMan Game](pacman-game)
 
 ## Related Repositories
 You can also check out these related repos for further learning:

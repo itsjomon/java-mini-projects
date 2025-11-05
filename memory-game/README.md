@@ -1,15 +1,6 @@
 # Memory Game
-The Memory Game is a fun and simple two-player game that tests your memory. In this game, a set of cards is laid face down. Players take turns flipping two cards to find matching pairs. If the two cards match, they remain face up. If not, they are flipped back down. The game continues until all pairs are found.
 
-## How to Play the Game
-
-- The game board has 4 pairs of cards (8 total), which are randomly shuffled.
-- The board is shown as a row of numbered slots from 0 to 7.
-- On each turn:
-    - A player selects two different indices to flip.
-    - If the values match, the pair remains visible.
-    - If the value does not match, then they are hidden again.
-- The game will end when all the pairs are found.
+A simple Java console program that challenges players memory skills. The game features eight cards (four matching pairs) that are randomly shuffled and placed face down, represented by numbered slots from 0 to 7. Players take turns entering two different indices between 0 and 7 to flip the cards and reveal what is underneath. If the two flipped cards match, they stay face up; if not, they are turned back down. The game continues until all pairs are found, and a congratulatory message is displayed at the end.
 
 ## Sample Input & Output
 
@@ -76,7 +67,7 @@ Congratulations, you won!
 
 ## Run
 
-- Clone the repo:
+- Clone the Repository:
   ```bash
   git clone https://github.com/itsjomon/java-mini-projects.git
   ```
